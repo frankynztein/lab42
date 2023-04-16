@@ -1,0 +1,36 @@
+/* PAGE BLOG */
+
+#pageBlog {
+  padding: 50px 0;
+}
+
+h2 {
+  padding-bottom: 20px;
+}
+
+.blog-card a {
+  display: inline-block;
+  padding-top: 10px;
+  color: #0067b8;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.blog-card {
+  box-shadow: 4px 8px 15px -3px rgba(0,0,0,0.1);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.blog-card img {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.blog-card-content {
+  padding: 15px;
+}

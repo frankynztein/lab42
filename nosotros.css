@@ -1,0 +1,23 @@
+/* PAGE NOSOTROS */
+
+#pageNosotros {
+  padding: 50px 0;
+}
+
+.accordion-box {
+  max-width: 800px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.accordion {
+  width: 800px;
+}
+
+.team-box img {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
